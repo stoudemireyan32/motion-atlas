@@ -4,6 +4,8 @@ A curated atlas of beautiful 3D, WebGL, motion, generative and interactive websi
 
 Discover remarkable digital experiences by visual style, interaction type and technology. The first edition includes 50 hand-picked websites across 3D worlds, particles, mouse interaction, scroll storytelling, games, generative art, sound and experimental design.
 
+The gallery defaults to English and includes a complete Chinese translation, dense filtering, real-site previews and blind-box-style hover reveals.
+
 **Live site:** https://stoudemireyan32.github.io/motion-atlas/
 
 ## Run locally
