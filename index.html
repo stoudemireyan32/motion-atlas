@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Motion Atlas — 全球 3D、WebGL、动态与交互网站灵感图鉴。" />
+  <meta name="theme-color" content="#080909" />
+  <title>Motion Atlas — Interactive Web Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <canvas id="ambient" aria-hidden="true"></canvas>
+  <div class="noise" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="logo" href="#top" aria-label="Motion Atlas 首页">
+      <span class="logo-mark"><i></i><i></i><i></i></span>
+      <span>MOTION<br>ATLAS</span>
+    </a>
+    <p>THE INTERACTIVE WEB<br><span>ARCHIVE / 2026</span></p>
+    <a class="github" href="https://github.com/stoudemireyan32/motion-atlas" target="_blank" rel="noreferrer">GITHUB ↗</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="orbit" aria-hidden="true"><i></i><i></i><i></i><b></b></div>
+      <div class="hero-copy">
+        <p class="kicker">CURATED DIGITAL EXPERIENCES</p>
+        <h1>Explore the<br><em>living web.</em></h1>
+        <p class="dek">全球最值得体验的 3D、WebGL、生成艺术与互动网页。按照视觉风格、技术方案和交互方式探索。</p>
+      </div>
+      <div class="hero-meta"><span><b id="heroCount">50</b> EXPERIENCES</span><span>08 CATEGORIES</span><span>UPDATED WEEKLY</span></div>
+      <a class="scroll-cue" href="#archive"><span>SCROLL TO DISCOVER</span><i></i></a>
+    </section>
+
+    <section class="archive" id="archive">
+      <div class="archive-head">
+        <div><p class="kicker">INDEX / 001—050</p><h2>Curated<br>experiences.</h2></div>
+        <p>从空间叙事到粒子实验，从声音交互到 AI 生成。每一个案例都提供清晰的体验说明和技术索引。</p>
+      </div>
+
+      <div class="controls" id="controls">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索名称、效果或技术…" autocomplete="off"></label>
+        <div class="filter-row" id="categoryFilters"></div>
+        <div class="filter-bottom">
+          <label>TECH <select id="techFilter"><option value="all">全部技术</option></select></label>
+          <label class="sound-toggle"><input id="soundOnly" type="checkbox"><span></span> 包含声音</label>
+          <button id="randomBtn">随机探索 <b>↗</b></button>
+        </div>
+      </div>
+
+      <div class="result-line"><span id="resultCount">50 EXPERIENCES</span><span>HOVER TO ACTIVATE</span></div>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty"><span>∅</span><p>没有找到符合条件的体验。</p><button id="clearBtn">清除筛选</button></div>
+    </section>
+
+    <section class="manifesto">
+      <p class="kicker">OUR POINT OF VIEW</p>
+      <blockquote>“The web should feel less like a document<br>and more like <em>a place.</em>”</blockquote>
+      <div class="manifesto-foot"><span>DISCOVER</span><span>STUDY</span><span>CREATE</span><span>SHARE</span></div>
+    </section>
+  </main>
+
+  <footer><a class="logo" href="#top"><span class="logo-mark"><i></i><i></i><i></i></span><span>MOTION<br>ATLAS</span></a><p>A living index of remarkable interactions.</p><p>OPEN SOURCE · 2026</p></footer>
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
