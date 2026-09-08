@@ -27,6 +27,8 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
+      - name: Build content index
+        run: npm run build
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:

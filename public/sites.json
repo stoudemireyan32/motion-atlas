@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "001",
+    "name": "GPT-6 Astra",
+    "slug": "gpt-6-astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "category": "Particles",
+    "technologies": [
+      "WebGL",
+      "Particles"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": true,
+    "status": "published",
+    "description": {
+      "en": "A draggable particle galaxy paired with an expansive scroll-driven launch story.",
+      "zh": "可拖拽旋转的粒子星系与长篇滚动发布叙事。"
+    }
+  },
+  {
+    "id": "002",
+    "name": "Bruno Simon",
+    "slug": "bruno-simon",
+    "url": "https://bruno-simon.com/",
+    "category": "Game",
+    "technologies": [
+      "Three.js",
+      "Physics"
+    ],
+    "interactions": [
+      "Keyboard"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Drive a tiny car through a complete 3D world to discover every project.",
+      "zh": "驾驶一辆玩具车，在完整的三维世界中探索作品。"
+    }
+  },
+  {
+    "id": "003",
+    "name": "Lusion",
+    "slug": "lusion",
+    "url": "https://lusion.co/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Cinematic real-time 3D, fluid simulation and seamless spatial transitions.",
+      "zh": "电影质感的实时三维、流体模拟与空间转场。"
+    }
+  },
+  {
+    "id": "004",
+    "name": "Active Theory",
+    "slug": "active-theory",
+    "url": "https://activetheory.net/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Game-engine quality environments shaped by movement, story and sound.",
+      "zh": "接近游戏引擎质感的沉浸空间和声音体验。"
+    }
+  },
+  {
+    "id": "005",
+    "name": "Resn",
+    "slug": "resn",
+    "url": "https://resn.co.nz/",
+    "category": "Experimental",
+    "technologies": [
+      "WebGL",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "A strange, unpredictable playground that reacts dramatically to the pointer.",
+      "zh": "怪诞、不可预测，页面会对鼠标做出夸张反馈。"
+    }
+  },
+  {
+    "id": "006",
+    "name": "Immersive Garden",
+    "slug": "immersive-garden",
+    "url": "https://immersive-g.com/",
+    "category": "3D World",
+    "technologies": [
+      "Three.js",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Dreamlike digital gardens, organic materials and spatial camera movement.",
+      "zh": "梦境般的数字花园、自然材质和空间镜头。"
+    }
+  },
+  {
+    "id": "007",
+    "name": "Dogstudio",
+    "slug": "dogstudio",
+    "url": "https://dogstudio.co/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "GSAP"
+    ],
+    "interactions": [
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Characters, environments and camera work combined into cinematic web stories.",
+      "zh": "角色、场景和镜头共同组成电影式网页体验。"
+    }
+  },
+  {
+    "id": "008",
+    "name": "Basement Studio",
+    "slug": "basement-studio",
+    "url": "https://basement.studio/",
+    "category": "Scroll",
+    "technologies": [
+      "R3F",
+      "Physics"
+    ],
+    "interactions": [
+      "Scroll",
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Flat project cards gain convincing depth, weight and physical momentum.",
+      "zh": "平面卡片像真实物体一样具有空间和物理惯性。"
+    }
+  },
+  {
+    "id": "009",
+    "name": "Unseen Studio",
+    "slug": "unseen-studio",
+    "url": "https://unseen.co/",
+    "category": "Experimental",
+    "technologies": [
+      "WebGL",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Soft deformation, glossy materials and restrained futuristic direction.",
+      "zh": "柔软形变、光泽材质与克制的未来主义设计。"
+    }
+  },
+  {
+    "id": "010",
+    "name": "Garden Eight",
+    "slug": "garden-eight",
+    "url": "https://garden-eight.com/",
+    "category": "Scroll",
+    "technologies": [
+      "WebGL",
+      "GSAP"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Precise Japanese art direction with delicate depth and interaction.",
+      "zh": "精致的日系排版、空间层次和细腻的交互反馈。"
+    }
+  },
+  {
+    "id": "011",
+    "name": "Locomotive",
+    "slug": "locomotive",
+    "url": "https://locomotive.ca/",
+    "category": "Scroll",
+    "technologies": [
+      "GSAP",
+      "Canvas"
+    ],
+    "interactions": [
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Inertial scrolling, oversized type and transitions that behave like camera cuts.",
+      "zh": "惯性滚动、巨型字体和镜头式页面衔接。"
+    }
+  },
+  {
+    "id": "012",
+    "name": "Make Me Pulse",
+    "slug": "make-me-pulse",
+    "url": "https://makemepulse.com/",
+    "category": "Experimental",
+    "technologies": [
+      "WebGL",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Breathing organic forms, sound and playful experimental interaction.",
+      "zh": "具有呼吸感的有机图形、声音和实验性互动。"
+    }
+  },
+  {
+    "id": "013",
+    "name": "Cuberto",
+    "slug": "cuberto",
+    "url": "https://cuberto.com/",
+    "category": "Mouse",
+    "technologies": [
+      "GSAP",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Magnetic buttons, cursor following and exceptionally smooth transitions.",
+      "zh": "鼠标跟随、磁吸按钮和丝滑的页面过渡。"
+    }
+  },
+  {
+    "id": "014",
+    "name": "Studio Freight",
+    "slug": "studio-freight",
+    "url": "https://studiofreight.com/",
+    "category": "Scroll",
+    "technologies": [
+      "GSAP",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Bold typography animated with weight, inertia and physical movement.",
+      "zh": "强排版与带有重量感的惯性和物理动画。"
+    }
+  },
+  {
+    "id": "015",
+    "name": "OBYS",
+    "slug": "obys",
+    "url": "https://obys.agency/",
+    "category": "Scroll",
+    "technologies": [
+      "GSAP",
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Editorial typography and cinematic scroll choreography.",
+      "zh": "先锋字体、编辑设计和电影般的滚动转场。"
+    }
+  },
+  {
+    "id": "016",
+    "name": "Akaru",
+    "slug": "akaru",
+    "url": "https://akaru.fr/",
+    "category": "Experimental",
+    "technologies": [
+      "WebGL",
+      "GSAP"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "French art direction expressed through rhythmic experimental motion.",
+      "zh": "法式艺术指导与富有节奏的实验动画。"
+    }
+  },
+  {
+    "id": "017",
+    "name": "Aristide Benoist",
+    "slug": "aristide-benoist",
+    "url": "https://aristidebenoist.com/",
+    "category": "Scroll",
+    "technologies": [
+      "WebGL",
+      "GSAP"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Minimal compositions with meticulously timed scroll animation.",
+      "zh": "极简构图和精确到帧的滚动动画编排。"
+    }
+  },
+  {
+    "id": "018",
+    "name": "Hello Monday",
+    "slug": "hello-monday",
+    "url": "https://hellomonday.com/",
+    "category": "Game",
+    "technologies": [
+      "Canvas",
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Brand stories transformed through illustration, play and interaction.",
+      "zh": "把插画、故事和游戏机制融合进品牌网页。"
+    }
+  },
+  {
+    "id": "019",
+    "name": "Monopo London",
+    "slug": "monopo-london",
+    "url": "https://monopo.london/",
+    "category": "Mouse",
+    "technologies": [
+      "GSAP",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Bold color, editorial layouts and responsive pointer effects.",
+      "zh": "大胆色彩、杂志排版和灵敏的指针反馈。"
+    }
+  },
+  {
+    "id": "020",
+    "name": "Rally Interactive",
+    "slug": "rally-interactive",
+    "url": "https://rallyinteractive.com/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Highly polished interactive brand narratives and digital spaces.",
+      "zh": "高完成度的互动品牌叙事和数字空间。"
+    }
+  },
+  {
+    "id": "021",
+    "name": "Apple Vision Pro",
+    "slug": "apple-vision-pro",
+    "url": "https://www.apple.com/apple-vision-pro/",
+    "category": "Scroll",
+    "technologies": [
+      "WebGL",
+      "Canvas"
+    ],
+    "interactions": [
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Products rotate, separate and enter real-world contexts as you scroll.",
+      "zh": "产品随滚动拆解、旋转并进入使用情境。"
+    }
+  },
+  {
+    "id": "022",
+    "name": "Apple AirPods Pro",
+    "slug": "apple-airpods-pro",
+    "url": "https://www.apple.com/airpods-pro/",
+    "category": "Scroll",
+    "technologies": [
+      "Canvas",
+      "GSAP"
+    ],
+    "interactions": [
+      "Scroll",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "A cinematic product story built around the idea of spatial sound.",
+      "zh": "空间音频概念和电影式产品展示。"
+    }
+  },
+  {
+    "id": "023",
+    "name": "Stripe",
+    "slug": "stripe",
+    "url": "https://stripe.com/",
+    "category": "Generative",
+    "technologies": [
+      "WebGL",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Organic gradients that move like light refracting through glass.",
+      "zh": "像光穿过玻璃一样流动的实时渐变表面。"
+    }
+  },
+  {
+    "id": "024",
+    "name": "Huly",
+    "slug": "huly",
+    "url": "https://huly.io/",
+    "category": "3D World",
+    "technologies": [
+      "Spline",
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Floating 3D product interfaces respond subtly to cursor movement.",
+      "zh": "悬浮的三维产品界面随光标产生细微视差。"
+    }
+  },
+  {
+    "id": "025",
+    "name": "Resend",
+    "slug": "resend",
+    "url": "https://resend.com/",
+    "category": "3D World",
+    "technologies": [
+      "Three.js",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "A minimal geometric form rendered with iridescent material and slow motion.",
+      "zh": "极简几何体搭配虹彩材质和柔和旋转。"
+    }
+  },
+  {
+    "id": "026",
+    "name": "Spline",
+    "slug": "spline",
+    "url": "https://spline.design/",
+    "category": "3D World",
+    "technologies": [
+      "Spline",
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Create, manipulate and publish interactive 3D scenes in the browser.",
+      "zh": "在线创建、操控并发布具有交互的三维场景。"
+    }
+  },
+  {
+    "id": "027",
+    "name": "Porsche",
+    "slug": "porsche",
+    "url": "https://www.porsche.com/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Automotive materials and spatial cinematography shape a premium product story.",
+      "zh": "汽车材质、空间镜头与高端产品叙事。"
+    }
+  },
+  {
+    "id": "028",
+    "name": "Polestar",
+    "slug": "polestar",
+    "url": "https://www.polestar.com/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "GSAP"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Restrained automotive visualization with structured scroll interaction.",
+      "zh": "克制的汽车三维展示和结构化滚动体验。"
+    }
+  },
+  {
+    "id": "029",
+    "name": "Nothing",
+    "slug": "nothing",
+    "url": "https://nothing.tech/",
+    "category": "Scroll",
+    "technologies": [
+      "WebGL",
+      "GSAP"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Transparent industrial materials, pixel typography and assertive motion.",
+      "zh": "透明工业材质、像素字体与强烈品牌动效。"
+    }
+  },
+  {
+    "id": "030",
+    "name": "Ray-Ban Meta",
+    "slug": "ray-ban-meta",
+    "url": "https://www.ray-ban.com/usa/discover-ray-ban-meta-ai-glasses/clp",
+    "category": "Scroll",
+    "technologies": [
+      "WebGL",
+      "Canvas"
+    ],
+    "interactions": [
+      "Scroll",
+      "Video"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "A wearable product rotates and reveals new functions through scrolling.",
+      "zh": "眼镜产品旋转并随着滚动切换功能场景。"
+    }
+  },
+  {
+    "id": "031",
+    "name": "Particle Love",
+    "slug": "particle-love",
+    "url": "https://particle-love.com/",
+    "category": "Particles",
+    "technologies": [
+      "WebGL",
+      "Particles"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Particles gather, flee and trail around the moving pointer.",
+      "zh": "粒子在光标附近聚合、逃逸和留下运动轨迹。"
+    }
+  },
+  {
+    "id": "032",
+    "name": "WebGL Fluid",
+    "slug": "webgl-fluid",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    "category": "Generative",
+    "technologies": [
+      "WebGL",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Use the pointer to stir luminous real-time liquid and colorful vortices.",
+      "zh": "用鼠标搅动色彩丰富的实时液体和旋涡。"
+    }
+  },
+  {
+    "id": "033",
+    "name": "Blobmixer",
+    "slug": "blobmixer",
+    "url": "https://blobmixer.14islands.com/",
+    "category": "Generative",
+    "technologies": [
+      "Three.js",
+      "GLSL"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Pull, squeeze and blend elastic three-dimensional forms.",
+      "zh": "捏合、拉扯和混合具有弹性的三维软体。"
+    }
+  },
+  {
+    "id": "034",
+    "name": "Silk",
+    "slug": "silk",
+    "url": "http://weavesilk.com/",
+    "category": "Generative",
+    "technologies": [
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Draw glowing symmetrical strands with the movement of your pointer.",
+      "zh": "用光标绘制具有镜像对称的发光丝线。"
+    }
+  },
+  {
+    "id": "035",
+    "name": "Patatap",
+    "slug": "patatap",
+    "url": "https://patatap.com/",
+    "category": "Sound",
+    "technologies": [
+      "Canvas",
+      "Web Audio"
+    ],
+    "interactions": [
+      "Keyboard",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Every keyboard press triggers a distinct animation and sound.",
+      "zh": "每次键盘输入都会触发独特的动态图形和声音。"
+    }
+  },
+  {
+    "id": "036",
+    "name": "Blob Opera",
+    "slug": "blob-opera",
+    "url": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw",
+    "category": "Sound",
+    "technologies": [
+      "WebGL",
+      "Web Audio"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Drag soft characters to control pitch and conduct a playful choir.",
+      "zh": "拖动可爱的软体角色来控制音高并组成合唱。"
+    }
+  },
+  {
+    "id": "037",
+    "name": "WebGL Aquarium",
+    "slug": "webgl-aquarium",
+    "url": "https://webglsamples.org/aquarium/aquarium.html",
+    "category": "3D World",
+    "technologies": [
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "A classic real-time underwater scene filled with large schools of fish.",
+      "zh": "经典的大规模鱼群动画与实时水下空间。"
+    }
+  },
+  {
+    "id": "038",
+    "name": "Three.js Examples",
+    "slug": "three-js-examples",
+    "url": "https://threejs.org/examples/",
+    "category": "Experimental",
+    "technologies": [
+      "Three.js",
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Keyboard"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "A living library of particles, shaders, physics and post-processing.",
+      "zh": "涵盖粒子、Shader、物理和后处理的实验库。"
+    }
+  },
+  {
+    "id": "039",
+    "name": "R3F Examples",
+    "slug": "r3f-examples",
+    "url": "https://docs.pmnd.rs/react-three-fiber/getting-started/examples",
+    "category": "Experimental",
+    "technologies": [
+      "R3F",
+      "Three.js"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Interactive 3D examples built for the React and Three.js ecosystem.",
+      "zh": "React 技术体系下的实时三维互动案例集合。"
+    }
+  },
+  {
+    "id": "040",
+    "name": "Chrome Experiments",
+    "slug": "chrome-experiments",
+    "url": "https://experiments.withgoogle.com/collection/chrome",
+    "category": "Experimental",
+    "technologies": [
+      "Canvas",
+      "WebGL"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "An archive of browser-based generative art, sound and interaction.",
+      "zh": "浏览器生成艺术、声音与交互技术的经典档案。"
+    }
+  },
+  {
+    "id": "041",
+    "name": "Paper Planes",
+    "slug": "paper-planes",
+    "url": "https://paperplanes.world/",
+    "category": "Game",
+    "technologies": [
+      "WebGL",
+      "Canvas"
+    ],
+    "interactions": [
+      "Mouse",
+      "Gyroscope"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Fold a paper plane and throw it into a sky shared by the world.",
+      "zh": "折一架纸飞机，将它投向由全球玩家组成的天空。"
+    }
+  },
+  {
+    "id": "042",
+    "name": "Species in Pieces",
+    "slug": "species-in-pieces",
+    "url": "http://www.species-in-pieces.com/",
+    "category": "Scroll",
+    "technologies": [
+      "SVG",
+      "CSS"
+    ],
+    "interactions": [
+      "Mouse",
+      "Scroll"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Transforming polygons tell the stories of endangered animals.",
+      "zh": "用不断变形的多边形讲述濒危动物的故事。"
+    }
+  },
+  {
+    "id": "043",
+    "name": "The Boat",
+    "slug": "the-boat",
+    "url": "https://www.sbs.com.au/theboat/",
+    "category": "Scroll",
+    "technologies": [
+      "Canvas",
+      "GSAP"
+    ],
+    "interactions": [
+      "Scroll",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Illustration, parallax and sound form an immersive graphic novel.",
+      "zh": "插画、视差和声音构成的沉浸式图像小说。"
+    }
+  },
+  {
+    "id": "044",
+    "name": "Radio Garden",
+    "slug": "radio-garden",
+    "url": "https://radio.garden/",
+    "category": "Sound",
+    "technologies": [
+      "WebGL",
+      "Web Audio"
+    ],
+    "interactions": [
+      "Mouse",
+      "Sound"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Spin the globe and listen to live radio from anywhere on Earth.",
+      "zh": "旋转三维地球，实时收听世界各地的广播。"
+    }
+  },
+  {
+    "id": "045",
+    "name": "NASA Eyes",
+    "slug": "nasa-eyes",
+    "url": "https://eyes.nasa.gov/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "Data"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Explore planets, Earth systems and spacecraft in real-time 3D.",
+      "zh": "在实时三维空间中探索太阳系、地球和航天器。"
+    }
+  },
+  {
+    "id": "046",
+    "name": "Solar System Scope",
+    "slug": "solar-system-scope",
+    "url": "https://www.solarsystemscope.com/",
+    "category": "3D World",
+    "technologies": [
+      "WebGL",
+      "Three.js"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": true,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Zoom, rotate and inspect an interactive model of the solar system.",
+      "zh": "自由缩放、旋转并观察完整太阳系。"
+    }
+  },
+  {
+    "id": "047",
+    "name": "Earth Nullschool",
+    "slug": "earth-nullschool",
+    "url": "https://earth.nullschool.net/",
+    "category": "Particles",
+    "technologies": [
+      "WebGL",
+      "Data"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Live global wind and weather data stream across a rotating Earth.",
+      "zh": "在旋转地球上观察实时全球风场和气象数据。"
+    }
+  },
+  {
+    "id": "048",
+    "name": "Deep Sea",
+    "slug": "deep-sea",
+    "url": "https://neal.fun/deep-sea/",
+    "category": "Scroll",
+    "technologies": [
+      "Canvas",
+      "CSS"
+    ],
+    "interactions": [
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Scroll downward through the scale, creatures and darkness of the ocean.",
+      "zh": "持续向下滚动，感受海洋深度和生物尺度。"
+    }
+  },
+  {
+    "id": "049",
+    "name": "Space Elevator",
+    "slug": "space-elevator",
+    "url": "https://neal.fun/space-elevator/",
+    "category": "Scroll",
+    "technologies": [
+      "Canvas",
+      "CSS"
+    ],
+    "interactions": [
+      "Scroll"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Ride upward through the atmosphere and into space.",
+      "zh": "沿太空电梯不断上升，穿越大气层直到宇宙。"
+    }
+  },
+  {
+    "id": "050",
+    "name": "Pointer Pointer",
+    "slug": "pointer-pointer",
+    "url": "https://pointerpointer.com/",
+    "category": "Mouse",
+    "technologies": [
+      "JavaScript",
+      "Images"
+    ],
+    "interactions": [
+      "Mouse"
+    ],
+    "hasSound": false,
+    "mobileFriendly": true,
+    "aiAssisted": false,
+    "status": "published",
+    "description": {
+      "en": "Wherever the pointer stops, a photograph appears pointing directly at it.",
+      "zh": "无论光标停在哪里，都找到一张指向它的照片。"
+    }
+  }
+]

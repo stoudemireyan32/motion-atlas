@@ -1,0 +1,10 @@
+{
+  "name": "motion-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-sites.mjs",
+    "build": "node scripts/build-index.mjs"
+  }
+}

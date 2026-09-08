@@ -1,0 +1,44 @@
+name: Suggest an interactive website
+description: Recommend a site for the Motion Atlas collection
+title: "[Submission] "
+labels: [submission]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Website name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Original URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: What makes the experience special?
+      description: Describe what moves and how visitors interact with it.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary category
+      options: [3D World, Particles, Mouse, Scroll, Game, Generative, Sound, Experimental]
+    validations:
+      required: true
+  - type: input
+    id: technology
+    attributes:
+      label: Verified technologies, if known
+      placeholder: Three.js, WebGL, GSAP
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: The URL is publicly accessible and contains no referral parameters.
+          required: true

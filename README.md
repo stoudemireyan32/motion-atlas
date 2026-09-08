@@ -18,4 +18,6 @@ Then open `http://localhost:4173`.
 
 ## Contributing
 
-Suggestions are welcome through GitHub Issues. Please include the original URL, creator or studio, a short interaction description and any verified technology information.
+Every published website lives in its own Markdown file under `sites/`. Copy [`sites/TEMPLATE.md`](sites/TEMPLATE.md), complete the bilingual metadata, and open a pull request. GitHub Actions validates every submission and rebuilds the public index after it is merged.
+
+You can also suggest a website through the repository's structured issue form. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the complete guide.

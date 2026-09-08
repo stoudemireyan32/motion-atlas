@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://motion-atlas.dev/schemas/site.schema.json",
+  "title": "Motion Atlas site entry",
+  "type": "object",
+  "required": ["id", "name", "slug", "url", "category", "technologies", "interactions", "hasSound", "mobileFriendly", "aiAssisted", "status", "description"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[0-9]{3}$" },
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "url": { "type": "string", "pattern": "^https?://" },
+    "creator": { "type": "string", "maxLength": 100 },
+    "category": { "enum": ["3D World", "Particles", "Mouse", "Scroll", "Game", "Generative", "Sound", "Experimental"] },
+    "technologies": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "interactions": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "hasSound": { "type": "boolean" },
+    "mobileFriendly": { "type": "boolean" },
+    "aiAssisted": { "type": "boolean" },
+    "status": { "enum": ["draft", "published"] },
+    "description": {
+      "type": "object",
+      "required": ["en", "zh"],
+      "properties": {
+        "en": { "type": "string", "minLength": 20, "maxLength": 240 },
+        "zh": { "type": "string", "minLength": 8, "maxLength": 120 }
+      }
+    }
+  },
+  "additionalProperties": false
+}
